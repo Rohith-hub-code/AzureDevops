@@ -1,0 +1,8 @@
+apple     banana     grape     orrange     kiwi
+dog     cat     mouse     snake     frog
+plant     tree     mango       bigtree     smalltree
+forest    hill       pound     beach       river
+
+bullet    tvs       benz      bmw         audi                
+road     car        bike      cycle       bus
+narmada   kaveri    ganga     yamuna      godh
