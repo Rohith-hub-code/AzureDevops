@@ -6,12 +6,12 @@ terraform {
    }
 }
 
+}
+
 provider "azurerm" {
   features {}
 }
 
-
-}
 
 resource "azurerm_resource_group" "Azure_Rg" {
   name     = var.RGname
