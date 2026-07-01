@@ -1,0 +1,2 @@
+RGname = "gitrg"
+RGlocation = "eastasia"
