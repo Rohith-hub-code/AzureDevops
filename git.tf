@@ -5,6 +5,12 @@ terraform {
       version = "4.77.0"
    }
 }
+
+provider "azurerm" {
+  features {}
+}
+
+
 }
 
 resource "azurerm_resource_group" "Azure_Rg" {
