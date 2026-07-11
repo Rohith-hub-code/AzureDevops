@@ -1,0 +1,4 @@
+FROM ubuntu:20.04
+MAINTAINER Docker file 2
+RUN apt update
+RUN touch files.txt
