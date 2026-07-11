@@ -1,5 +1,5 @@
 FROM ubuntu:26.04
-MAINTAINER PraveenK
+MAINTAINER Rohith 
 RUN apt-get update 
 RUN mkdir testData 
 RUN cd testData 
